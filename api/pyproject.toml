@@ -68,7 +68,7 @@ dependencies = [
     "pydantic~=2.11.4",
     "pydantic-extra-types~=2.10.3",
     "pydantic-settings~=2.11.0",
-    "pyjwt~=2.10.1",
+    "pyjwt~=2.14.0",
     "pypdfium2==5.2.0",
     "python-docx~=1.1.0",
     "python-dotenv==1.0.1",
@@ -195,7 +195,7 @@ storage = [
 ############################################################
 # [ Tools ] dependency group
 ############################################################
-tools = ["cloudscraper~=1.2.71", "nltk~=3.9.1"]
+tools = ["cloudscraper~=1.2.71", "nltk~=3.10.4"]
 
 ############################################################
 # [ VDB ] dependency group
